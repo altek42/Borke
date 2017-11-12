@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Workspace.qml</file>
+        <file alias="Menu/Menu.qml">Menu/Menu.qml</file>
+        <file alias="WebView/WebView.qml">WebView/WebView.qml</file>
+        <file>Menu/MenuButton.qml</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file alias="exit_button.png">Images/exit_button.png</file>
+        <file alias="minimize_button.png">Images/minimize_button.png</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file alias="titleFont.ttf">Fonts/DK Cinnabar Brush.ttf</file>
+    </qresource>
+</RCC>
